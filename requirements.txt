@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pypdf
+google-generativeai
+python-multipart
+sqlite3
+requests
