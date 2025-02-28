@@ -1,7 +1,7 @@
 fastapi
 uvicorn
-pypdf
+asyncpraw
+pandas
+nest_asyncio
 google-generativeai
-python-multipart
-sqlite3
 requests
